@@ -1,0 +1,31 @@
+- menu_name: "Sitemap"
+
+- name: "Hem"
+  url: "/Ultimatesweden1/"
+  title: "Hem"
+
+- name: "Ultimate"
+  url: "/ultimate/"
+  title: "Ultimate"
+
+- name: "Landslag"
+  url: "/landslag/"
+  title: "Landslag"
+
+- name: "Hall Of Fame"
+  url: "/hall_of_fame/"
+  title: "Hall Of Fame"
+
+- name: "Tävling"
+  url: "/tavling/"
+  title: "Tävling"
+  
+- name: "Förening"
+  url: "/forening/"
+  title: "Förening"
+  
+- name: "Svenska Ultimateförbundet"
+  url: "/svenska_ultimateforbundet/"
+  title: "Svenska Ultimateförbundet"
+
+
